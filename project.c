@@ -6,7 +6,7 @@ int main ()
 
 
 
-  printf("%f", pow(4, 9));
+  printf("%f", sqrt(99)); // this is to look for the square root of a number 
     
 
     return 0;
