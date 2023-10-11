@@ -1,14 +1,14 @@
+//we will be creating constant in c 
+
 #include <stdio.h>
-#include <math.h> //include the maths library for the  pow funtion
-int main ()
-{ 
+int main (){
 
 
 
-
-  printf("%f", floor (39.656)); // this will give us the smallest number meaning it will give the opposite of ceil 
-    
+  const  int num =5;  // whem you put const infroont of an interger it shows that you dont want to modifier your interger
+    printf("%d\n", num);
+    num =8;
+    printf("%d", num);
 
     return 0;
-
 }
