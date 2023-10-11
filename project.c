@@ -6,7 +6,7 @@ int main ()
 
 
 
-  printf("%f", sqrt(99)); // this is to look for the square root of a number 
+  printf("%f", ceil(39.356)); // this will give us the highest number 
     
 
     return 0;
