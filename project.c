@@ -6,7 +6,7 @@ int main ()
 
 
 
-  printf("%f", ceil(39.356)); // this will give us the highest number 
+  printf("%f", floor (39.656)); // this will give us the smallest number meaning it will give the opposite of ceil 
     
 
     return 0;
